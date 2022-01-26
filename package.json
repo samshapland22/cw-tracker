@@ -2,5 +2,24 @@
   "type": "module",
   "dependencies": {
     "node-fetch": "^3.2.0"
-  }
+  },
+  "name": "codewars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samshapland22/cw-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samshapland22/cw-tracker/issues"
+  },
+  "homepage": "https://github.com/samshapland22/cw-tracker#readme",
+  "description": ""
 }
